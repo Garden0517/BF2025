@@ -19,7 +19,7 @@ function ServiceImg(props) {
         display: "flex",
         flexWrap: "wrap",
         justifyContent: "space-between",
-        alignItems: "flex-start",
+        alignItems: "center",
         gap: "40px",
       }}
     >
@@ -29,7 +29,7 @@ function ServiceImg(props) {
           flex: "1 1 400px",
           minWidth: "300px",
           maxWidth: "600px",
-          paddingTop: "80px",
+          paddingBottom: "80px",
           boxSizing: "border-box",
         }}
       >

@@ -54,7 +54,7 @@ function DraggableImage({ src, width = 2400, height = 2400 }) {
   return (
     <div
       style={{
-        maxWidth: "1000px",
+        maxWidth: "1560px",
         aspectRatio: "1000 / 1205", // 키오스크 비율 유지
         width: "52vw",
         position: "relative",

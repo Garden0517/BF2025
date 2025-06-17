@@ -133,8 +133,9 @@ function ServiceSwipe({ selectedId }) {
           style={{
             display: "flex",
             justifyContent: "space-between",
+            alignItems: "center",
             flexWrap: "wrap",
-            maxWidth: "1200px",
+            maxWidth: "1560px",
             margin: "0 auto",
             padding: "60px 20px",
             gap: "40px",
@@ -145,7 +146,7 @@ function ServiceSwipe({ selectedId }) {
               flex: "1 1 400px",
               minWidth: "300px",
               maxWidth: "600px",
-              paddingTop: "80px",
+              paddingBottom: "80px",
               boxSizing: "border-box",
             }}
           >
